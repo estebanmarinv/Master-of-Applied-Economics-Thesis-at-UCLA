@@ -1,2 +1,2 @@
 # Master-of-Applied-Economics-Thesis-at-UCLA
-Professional and academic projects
+## Value of Management Skills on Profitability: Evidence from Micro Businesses in Mexico
